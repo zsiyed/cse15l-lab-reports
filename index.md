@@ -6,7 +6,7 @@
 - a
 - list
 
-[link] (https://commonmark.org/help/)
+[link](https://commonmark.org/help/)
 ![Image](https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&fit=clip&q=40&w=1080)
 > Block
 1. One

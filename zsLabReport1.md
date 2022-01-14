@@ -1,8 +1,10 @@
 # how to log into a course-specific account on ieng6
 1. The first step is **install VSCode**
-![Image] step1.png
+
+![Image]step1.png
 2. The second step is to go to [link] (https://sdacs.ucsd.edu/~icc/index.php) to get your
 account details and in terminal type 
+
 ```
 ssh cs15lwi22@ieng6.ucsd.edu
 ```

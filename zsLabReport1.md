@@ -1,5 +1,5 @@
 # how to log into a course-specific account on ieng6
-The first step is **install VSCode**
+The first step is [install VS Code](https://code.visualstudio.com/download)
 
 ![Image](step1.png)
 The second step is to go to [link](https://sdacs.ucsd.edu/~icc/index.php) to get your

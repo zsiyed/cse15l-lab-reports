@@ -5,6 +5,7 @@ This is the code file of test 2, the failure inducing input: [Test 2](https://gi
 Here is the symptom of the failure inducing input:
 
 ![Image](test-2-symp.png)
+![Image](test2failss.png)
 
 Here is the code changed that fixed it:
 

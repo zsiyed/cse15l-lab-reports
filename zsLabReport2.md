@@ -4,7 +4,7 @@ This is the code file of test 2, the failure inducing input: [Test 2](https://gi
 
 Here is the symptom of the failure inducing input:
 
-![Image](test2failss.png)
+![Image](test-2-symp.png)
 
 Here is the code changed that fixed it:
 
@@ -21,7 +21,7 @@ This is the code file of test 3, the failure inducing input: [Test 3](https://gi
 
 Here is the symptom of the failure inducing input:
 
-![Image](test3failss.png)
+![Image](test-3-symp.png)
 
 Here is the code changed that fixed it:
 
@@ -38,7 +38,7 @@ This is the code file of test 5, the failure inducing input: [Test 5](https://gi
 
 Here is the symptom of the failure inducing input:
 
-![Image](test5failss.png)
+![Image](test-5-symp.png)
 
 Here is the code changed that fixed it:
 

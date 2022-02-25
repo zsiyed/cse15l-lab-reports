@@ -35,3 +35,18 @@ Using "make test" I ran the code in the file that I reviewed which failed the te
 ![image](snippet2CTcode.png)
 
 ***
+
+## Snippet Three ##
+
+For snippet three, this is the code I wrote to test it along with adding the text in a text file, the expected output is stored in variable expected
+![image](snippet3code.png)
+
+Using "make test" I ran the code in my file which failed the test:
+
+![image](snippet3mytest.png)
+
+Using "make test" I ran the code in the file that I reviewed which failed the test:
+
+![image](snippet3mytest.png)
+
+***

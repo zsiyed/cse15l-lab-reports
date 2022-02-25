@@ -50,3 +50,12 @@ Using "make test" I ran the code in the file that I reviewed which failed the te
 ![image](snippet3mytest.png)
 
 ***
+
+## Question 1 ##
+Yes, a loop that first goes through the program and removes all back ticks would work
+
+## Question 2 ##
+An additional if statement that checks if open and close parentheses are one after another would do a good job of handling this situation
+
+## Question 3 ##
+Yes, a loop that first goes through the program and removes all line breaks ("\n") would work

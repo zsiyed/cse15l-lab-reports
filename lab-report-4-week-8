@@ -1,0 +1,40 @@
+# Week 8 Lab Report
+
+Zed Siyed
+
+***
+## Snippet One ##
+
+[Markdown-Parse](https://github.com/zsiyed/markdown-parse)
+
+[Reviewed Markdown-Parse](https://github.com/christopherthomason/markdown-parse)
+
+For snippet one, this is the code I wrote to test it along with adding the text in a text file, the expected output is stored in variable expected
+![image](snippetOneTest.PNG)
+
+I then ran the tests, which resulted in this failed output for my MarkdownParseTest:
+
+![image](snippetOne.PNG)
+
+And this failed output for the MarkdownParseTest of the file I reviewed:
+
+![image](snippetOneRev.PNG)
+
+***
+## Snippet Two ##
+
+[Link to my Markdown-Parse](https://github.com/rohunkulshrestha/markdown-parse-1)
+
+[Link to reviewed Markdown-Parse](https://github.com/christopherthomason/markdown-parse)
+
+I began by creating a new test file for snippet one named "snippetOne", and this is the JUnit test I added to MarkdownParseTest with the expected output:
+
+![image](snippetOneTest.PNG)
+
+I then ran the tests, which resulted in this failed output for my MarkdownParseTest:
+
+![image](snippetOne.PNG)
+
+And this failed output for the MarkdownParseTest of the file I reviewed:
+
+![image](snippetOneRev.PNG)

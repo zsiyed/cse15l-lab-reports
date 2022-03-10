@@ -47,7 +47,7 @@ Using "make test" I ran the code in my file which failed the test:
 
 Using "make test" I ran the code in the file that I reviewed which failed the test:
 
-![image](snippet3mytest.png)
+![image](snippet3CTCode.png)
 
 ***
 

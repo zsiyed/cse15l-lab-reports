@@ -44,7 +44,7 @@ The second issue I found was in `567.md` which looks like this:
 
 I then ran the code on my file using Javac and got the following output:
 
-![image](MyCodeOutput2.png)
+![image](myCodeOutput2.png)
 
 I then ran the code on the given file using Javac and got the following output:
 

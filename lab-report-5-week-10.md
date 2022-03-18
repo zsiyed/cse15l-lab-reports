@@ -12,7 +12,7 @@ Zed Siyed
 ***
 ## Differene One ##
 
-The first issue I found was in `519.md` which looks like this:
+The first issue I found was in `512.md` which looks like this:
 ![image](519.png)
 
 I then ran the code on my file using Javac and got the following output:
@@ -23,7 +23,11 @@ I then ran the code on the given file using Javac and got the following output:
 
 ![image](JPCodeOutput1.png)
 
-As you can see, they have different outputs. I believe the given code is the correct implementation because my code can only handle 1 open bracket and and then 1 closed bracket. The bug is shown here in my code that openParen must be right after the first closed bracket. However, the output of the given code seems more accurate in its output.
+The correct output which is outlined by commonmark.js website is to have no valid link as shown below:
+
+![image](expected1.png)
+
+As you can see, my code and the given code have different outputs. I believe my code is the correct implementation because it matches with the commonmark.js website. The difference is shown here in my code that openParen must be right after the first closed bracket. However, the given code does not have this requirement.
 
 Here I show which code caused this issue.
 
@@ -50,7 +54,13 @@ I then ran the code on the given file using Javac and got the following output:
 
 ![image](JPCodeOutput2.png)
 
-As you can see, they have different outputs. I believe the correct implementation depends on whether you believe the second link should be valid because of its footnote format. In this case, I beleive the correct implementation is neither because my code ignores the footnote completely and the given code doesn't print the footnote or the original link.
+The correct output which I figured out using the Commonmark.js site is supposed to be:
+
+![image](expected2.png)
+
+As you can see, they have different outputs. I believe the correct implementation is neither for
+this case because as you can see, neither output matches with what the commonmark.js gives us. 
+This is because neither implementation is designed to handle links given by footnotes, which is the special case for this test. 
 
 There is no code to show for this portion because the bug is created by missing code, not incorrect code. The code needs to be able to handle the format of the footnotes.
 
